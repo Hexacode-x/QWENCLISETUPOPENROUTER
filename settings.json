@@ -1,0 +1,28 @@
+{
+  "modelProviders": {
+    "openai": [
+      {
+        "id": "qwen3.6-plus",
+        "name": "qwen3.6-plus",
+        "baseUrl": "https://openrouter.ai/api/v1",
+        "description": "OpenRouter unified AI model API",
+        "envKey": "DASHSCOPE_API_KEY"
+      }
+    ]
+  },
+  "env": {
+    "DASHSCOPE_API_KEY": "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"
+  },
+  "security": {
+    "auth": {
+      "selectedType": "openai"
+    }
+  },
+  "model": {
+    "name": "qwen3.6-plus"
+  },
+  "$version": 3
+}
+
+
+path : C:\Users\pcusername\.qwen
