@@ -11,7 +11,7 @@
     ]
   },
   "env": {
-    "DASHSCOPE_API_KEY": "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"
+    "DASHSCOPE_API_KEY": "sk-or-"
   },
   "security": {
     "auth": {
